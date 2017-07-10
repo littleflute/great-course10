@@ -1,4 +1,33 @@
-[v0.1.1](https://github.com/littleflute/great-course10/edit/master/README.md)
+[v0.1.2](https://github.com/littleflute/great-course10/edit/master/README.md)
+
+America and the World
+A Diplomatic History
+Stoler, Mark A.
+Audiobook CD - 2008
+
+[cd1](cd1)
+
+[cd2](cd2)
+
+[cd3](cd3)
+
+[cd4](cd4)
+
+[cd5](cd5)
+
+[cd6](cd6)
+
+[cd7](cd7)
+
+[cd8](cd8)
+
+[cd9](cd9)
+
+[cd10](cd10)
+
+[cd11](cd11)
+
+[cd12](cd12)
 
 [https://littleflute.github.io/great-course](https://littleflute.github.io/great-course)
 
