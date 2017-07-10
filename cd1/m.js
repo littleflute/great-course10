@@ -1,0 +1,14 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 1-1 achieving independence.mp3";		
+f[2]	= "07 1-7 confederation and the constitution.mp3";		
+f[3]	= "1-10.mp3";		
+f[4]	= "1-11.mp3";		
+f[5]	= "1-12.mp3";		
+f[6]	= "1-2.mp3";		
+f[7]	= "1-3.mp3";		
+f[8]	= "1-4.mp3";		
+f[9]	= "1-5.mp3";		
+f[10]	= "1-6.mp3";		
+f[11]	= "1-8.mp3";		
+f[12]	= "1-9.mp3";		
