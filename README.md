@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+[v0.1.1](https://github.com/littleflute/great-course10/edit/master/README.md)
 
-You can use the [editor on GitHub](https://github.com/littleflute/great-course10/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[https://littleflute.github.io/great-course](https://littleflute.github.io/great-course)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[https://littleflute.github.io/great-course1](https://littleflute.github.io/great-course1)
 
-### Markdown
+[https://littleflute.github.io/great-course2](https://littleflute.github.io/great-course2)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[https://littleflute.github.io/great-course3](https://littleflute.github.io/great-course3)
 
-```markdown
-Syntax highlighted code block
+[https://littleflute.github.io/great-course4](https://littleflute.github.io/great-course4)
 
-# Header 1
-## Header 2
-### Header 3
+[https://littleflute.github.io/great-course5](https://littleflute.github.io/great-course5)
 
-- Bulleted
-- List
+[https://littleflute.github.io/great-course6](https://littleflute.github.io/great-course6)
 
-1. Numbered
-2. List
+[https://littleflute.github.io/great-course7](https://littleflute.github.io/great-course7)
 
-**Bold** and _Italic_ and `Code` text
+[https://littleflute.github.io/great-course8](https://littleflute.github.io/great-course8)
 
-[Link](url) and ![Image](src)
-```
+[https://littleflute.github.io/great-course9](https://littleflute.github.io/great-course9)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/littleflute/great-course10/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[https://littleflute.github.io/great-course10](https://littleflute.github.io/great-course10)
