@@ -1,0 +1,14 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 2-1 Jefferson vs Hamilton.mp3";		
+f[2]	= "07 2-7 from the farewell address to the quasi war.mp3";		
+f[3]	= "2-10.mp3";		
+f[4]	= "2-11.mp3";		
+f[5]	= "2-12.mp3";		
+f[6]	= "2-2.mp3";		
+f[7]	= "2-3.mp3";		
+f[8]	= "2-4.mp3";		
+f[9]	= "2-5.mp3";		
+f[10]	= "2-6.mp3";		
+f[11]	= "2-8.mp3";		
+f[12]	= "2-9.mp3";		
