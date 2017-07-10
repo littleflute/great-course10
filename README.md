@@ -1,4 +1,6 @@
-[v0.1.2](https://github.com/littleflute/great-course10/edit/master/README.md)
+[v0.2.2](https://github.com/littleflute/great-course10/edit/master/README.md)
+
+[176M]
 
 America and the World
 A Diplomatic History
