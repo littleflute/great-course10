@@ -1,8 +1,6 @@
-[v0.2.3](https://github.com/littleflute/great-course10/edit/master/README.md)
+[v0.2.4](https://github.com/littleflute/great-course10/edit/master/README.md)
 
-[The Art of Negotiating the Best Deal/pdf](The Art of Negotiating the Best Deal/)
-
-[The Art of Negotiating the Best Deal/cd01](The Art of Negotiating the Best Deal/cd01]
+[The Art of Negotiating the Best Deal](The Art of Negotiating the Best Deal)
 
 [176M]
 
