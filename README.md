@@ -1,6 +1,6 @@
-[v0.2.5](https://github.com/littleflute/great-course10/edit/master/README.md)
+[v0.2.6](https://github.com/littleflute/great-course10/edit/master/README.md)
 
-[Religions of the Axial Age](Religions of the Axial Age)
+[Religions of the Axial Age](Religions of the Axial Age)  [86.4M]
 
 [The Art of Negotiating the Best Deal](The Art of Negotiating the Best Deal)
 
