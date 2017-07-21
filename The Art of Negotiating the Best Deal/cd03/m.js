@@ -1,0 +1,15 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "cd03";		
+f[2]	= "01 The Art of Skilled Listening 1.mp3";		
+f[3]	= "02 The Art of Skilled Listening 2.mp3";		
+f[4]	= "03 The Art of Skilled Listening 3.mp3";		
+f[5]	= "04 The Art of Skilled Listening 4.mp3";		
+f[6]	= "05 The Art of Skilled Listening 5.mp3";		
+f[7]	= "06 The Art of Skilled Listening 6.mp3";		
+f[8]	= "07 Knowledge is Power 1.mp3";		
+f[9]	= "08 Knowledge is Power 2.mp3";		
+f[10]	= "09 Knowledge is Power 3.mp3";		
+f[11]	= "10 Knowledge is Power 4.mp3";		
+f[12]	= "11 Knowledge is Power 5.mp3";		
+f[13]	= "12 Knowledge is Power 6.mp3";		

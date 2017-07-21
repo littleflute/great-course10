@@ -1,0 +1,14 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Measuring Success and Walking Away 1.mp3";		
+f[2]	= "02 Measuring Success and Walking Away 2.mp3";		
+f[3]	= "03 Measuring Success and Walking Away 3.mp3";		
+f[4]	= "04 Measuring Success and Walking Away 4.mp3";		
+f[5]	= "05 Measuring Success and Walking Away 5.mp3";		
+f[6]	= "06 Measuring Success and Walking Away 6.mp3";		
+f[7]	= "07 Creative, Distributive or Both 1.mp3";		
+f[8]	= "08 Creative, Distributive or Both 2.mp3";		
+f[9]	= "09 Creative, Distributive or Both 3.mp3";		
+f[10]	= "10 Creative, Distributive or Both 4.mp3";		
+f[11]	= "11 Creative, Distributive or Both 5.mp3";		
+f[12]	= "12 Creative, Distributive or Both 6.mp3";		
